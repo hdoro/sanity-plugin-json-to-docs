@@ -1,6 +1,6 @@
 {
   "name": "sanity-plugin-json-to-docs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Bulk upload documents to Sanity's database right from the studio",
   "keywords": [
     "sanity",
